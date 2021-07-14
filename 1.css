@@ -1,0 +1,46 @@
+.button{
+	 padding: 5%;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.BOX{background-color: ;
+	align-items: center;
+	background-color: #7ed6df;
+  	width: 15%;
+  	margin-left: 40%;
+  	margin-top: 10%;
+  	padding: 5%;
+  	float: center;
+  	text-align: center;
+  	border-radius: 60px;
+}
+.back{
+	background-color: blue;
+}
+.click{
+    background-color: #1B9CFC;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 45px;
+}
+.cal{
+     background-color: #1B9CFC;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 45px;
+}
